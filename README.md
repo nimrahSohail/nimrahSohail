@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning Datascience
 - 💬 You can ask me about html,css,js,react,sql,php,python
 - 📫 How to reach me nimrah.sohail20@gmail.com
+Connect with me:
+Linkedin: NIMRAH SOHAIL
 <!---
 nimrahSohail/nimrahSohail is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
