@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nimrahsohail&label=Profile%20views&color=0e75b6&style=flat" alt="nimrahsohail" /> </p>
 
-- 🎓 Formal Education **Senior year student of Computer Insformtaion Systems Engineering at NED University, Karachi, Pakistan.**
+- 🎓 Formal Education **Senior year student of Computer Informtaion Systems Engineering at NED University, Karachi, Pakistan.**
 
 - 🌱 I’m currently learning **cloud fundamentals**
 
